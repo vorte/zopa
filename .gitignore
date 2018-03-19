@@ -4,6 +4,8 @@
 
 *.class
 
+out/
+
 ### STS ###
 .apt_generated
 .classpath
